@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Just another repository.
+Just another repository. And now I'm making an edit to the new branch.
